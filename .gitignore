@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/Logs/LudumDare52.log
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Content/StarterContent/Materials/M_AssetPlatform.uasset
+Content/StarterContent/Architecture/Floor_400x400.uasset
